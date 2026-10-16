@@ -1,7 +1,7 @@
 # More Mod Patches for Expanded Materials - Metals
 
 [![Latest Release](https://img.shields.io/github/v/release/Sifu-Hotman/More-Mod-Patches-for-Expanded-Materials-Metals?label=Latest%20Release)](https://github.com/Sifu-Hotman/More-Mod-Patches-for-Expanded-Materials-Metals/releases)
-<!-- Steam Workshop badge goes here at publish -->
+[![Steam Workshop](https://img.shields.io/steam/subscriptions/3820650181?label=Steam%20Workshop&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3820650181)
 
 ![Expanded Materials - Metals: Mod Patches](Media/Badge_MMP.png)
 
